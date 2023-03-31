@@ -26,10 +26,11 @@ class ScoreScreen extends StatelessWidget {
           const SizedBox(height: 40),
           Text(
             AppStrings.yourScore,
-            style: Theme.of(context)
-                .textTheme
-                .headlineSmall
-                ?.copyWith(fontSize: 18, color: AppColors.textSecondaryColor),
+            style: Theme.of(context).textTheme.headlineSmall?.copyWith(
+                  fontSize: 18,
+                  color: AppColors.textSecondaryColor,
+                  fontWeight: FontWeight.bold,
+                ),
           ),
           const SizedBox(height: 10),
           Text(

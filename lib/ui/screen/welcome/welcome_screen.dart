@@ -22,7 +22,7 @@ class WelcomeScreen extends StatelessWidget {
             AppStrings.letsPlayQuiz,
             style: Theme.of(context)
                 .textTheme
-                .bodyMedium
+                .titleMedium
                 ?.copyWith(color: AppColors.textSecondaryColor),
           ),
           Padding(
