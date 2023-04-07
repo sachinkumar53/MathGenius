@@ -1,16 +1,12 @@
-# quiz
+# MathGenius - Quiz App
+MathGenius is a simple mathematical quiz app built using Flutter. The app uses Bloc library for state management, which ensures smooth and efficient state management. The Bloc pattern also allows for separation of concerns, making the app easy to maintain and extend.
 
-A new Flutter Quiz project.
+## Screenshots
+<img src="screenshots/screenshot_1.jpg" alt="Screenshot 1" width="25%"/> <img src="screenshots/screenshot_2.jpg" alt="Screenshot 2" width="25%"/> <img src="screenshots/screenshot_3.jpg" alt="Screenshot 3" width="25%"/>  <img src="screenshots/screenshot_4.jpg" alt="Screenshot 4" width="25%"/>
 
-## Getting Started
+## Technologies Used
+- Flutter
+- Bloc
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributions
+Contributions are welcome! If you find any bugs or have any feature requests, feel free to open an issue or submit a pull request.
